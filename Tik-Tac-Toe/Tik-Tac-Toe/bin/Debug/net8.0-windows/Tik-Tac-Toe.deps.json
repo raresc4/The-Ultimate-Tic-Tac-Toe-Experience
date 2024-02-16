@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tik-Tac-Toe/1.0.0": {
+        "runtime": {
+          "Tik-Tac-Toe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tik-Tac-Toe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

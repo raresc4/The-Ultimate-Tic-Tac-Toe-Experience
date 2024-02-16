@@ -1,0 +1,17 @@
+C:\Users\Antonio\Desktop\cod\proiecteC#\Tik-Tac-Toe\Tik-Tac-Toe\bin\Debug\net8.0-windows\Tik-Tac-Toe.exe
+C:\Users\Antonio\Desktop\cod\proiecteC#\Tik-Tac-Toe\Tik-Tac-Toe\bin\Debug\net8.0-windows\Tik-Tac-Toe.deps.json
+C:\Users\Antonio\Desktop\cod\proiecteC#\Tik-Tac-Toe\Tik-Tac-Toe\bin\Debug\net8.0-windows\Tik-Tac-Toe.runtimeconfig.json
+C:\Users\Antonio\Desktop\cod\proiecteC#\Tik-Tac-Toe\Tik-Tac-Toe\bin\Debug\net8.0-windows\Tik-Tac-Toe.dll
+C:\Users\Antonio\Desktop\cod\proiecteC#\Tik-Tac-Toe\Tik-Tac-Toe\bin\Debug\net8.0-windows\Tik-Tac-Toe.pdb
+C:\Users\Antonio\Desktop\cod\proiecteC#\Tik-Tac-Toe\Tik-Tac-Toe\obj\Debug\net8.0-windows\Tik_Tac_Toe.Form1.resources
+C:\Users\Antonio\Desktop\cod\proiecteC#\Tik-Tac-Toe\Tik-Tac-Toe\obj\Debug\net8.0-windows\Tik_Tac_Toe.Form2.resources
+C:\Users\Antonio\Desktop\cod\proiecteC#\Tik-Tac-Toe\Tik-Tac-Toe\obj\Debug\net8.0-windows\Tik-Tac-Toe.csproj.GenerateResource.cache
+C:\Users\Antonio\Desktop\cod\proiecteC#\Tik-Tac-Toe\Tik-Tac-Toe\obj\Debug\net8.0-windows\Tik-Tac-Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonio\Desktop\cod\proiecteC#\Tik-Tac-Toe\Tik-Tac-Toe\obj\Debug\net8.0-windows\Tik-Tac-Toe.AssemblyInfoInputs.cache
+C:\Users\Antonio\Desktop\cod\proiecteC#\Tik-Tac-Toe\Tik-Tac-Toe\obj\Debug\net8.0-windows\Tik-Tac-Toe.AssemblyInfo.cs
+C:\Users\Antonio\Desktop\cod\proiecteC#\Tik-Tac-Toe\Tik-Tac-Toe\obj\Debug\net8.0-windows\Tik-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Desktop\cod\proiecteC#\Tik-Tac-Toe\Tik-Tac-Toe\obj\Debug\net8.0-windows\Tik-Tac-Toe.dll
+C:\Users\Antonio\Desktop\cod\proiecteC#\Tik-Tac-Toe\Tik-Tac-Toe\obj\Debug\net8.0-windows\refint\Tik-Tac-Toe.dll
+C:\Users\Antonio\Desktop\cod\proiecteC#\Tik-Tac-Toe\Tik-Tac-Toe\obj\Debug\net8.0-windows\Tik-Tac-Toe.pdb
+C:\Users\Antonio\Desktop\cod\proiecteC#\Tik-Tac-Toe\Tik-Tac-Toe\obj\Debug\net8.0-windows\Tik-Tac-Toe.genruntimeconfig.cache
+C:\Users\Antonio\Desktop\cod\proiecteC#\Tik-Tac-Toe\Tik-Tac-Toe\obj\Debug\net8.0-windows\ref\Tik-Tac-Toe.dll
