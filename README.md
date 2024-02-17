@@ -17,8 +17,6 @@ Indulge your passion for gaming by cloning or forking our repository today! Whet
 
 # Download Instructions
 
-Visit the main page of the repository on GitHub using the following link: https://github.com/raresc4/The-Ultimate-Tic-Tac-Toe-Experience
-
 In the top right corner of the page, you will find a green button labeled "Code". Click on this button.
 
 A dropdown menu will appear. Choose the option "Download ZIP".
