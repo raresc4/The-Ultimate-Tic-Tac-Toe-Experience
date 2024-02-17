@@ -6,11 +6,17 @@ Embark on a journey into the heart of strategic gaming with our exquisite Tic-Ta
 # Features
 
 Impeccable Gameplay Dynamics
+
 Epic Player Versus Player Battles
+
 Sleek and Intuitive User Interface
+
 Instantaneous Victory Recognition
+
 Victory Tallying
+
 Effortless Restart Functionality
+
 Seamless Exit Option
 
 Indulge your passion for gaming by cloning or forking our repository today! Whether you seek thrilling battles against worthy adversaries or simply wish to explore the intricacies of game development, our Tic-Tac-Toe repository promises an unforgettable experience. Join us now and let the games begin!
