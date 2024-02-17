@@ -1,7 +1,7 @@
 # The Ultimate Tic-Tac-Toe Experience 
 
 # Description
-Embark on a journey into the heart of strategic gaming with our exquisite Tic-Tac-Toe game repository! Immerse yourself in the timeless allure of this classic game, meticulously crafted and elegantly implemented in C#. Whether you're a seasoned tactician or a newcomer to the battlefield of X's and O's, our repository offers an unparalleled gaming experience that will captivate and challenge you.
+Embark on a journey into the heart of strategic gaming with our exquisite Tic-Tac-Toe game repository! Immerse yourself in the timeless allure of this classic game, meticulously crafted and elegantly implemented in C#. Whether you're a seasoned tactician or a newcomer to the battlefield of X's and O's, my repository offers an unparalleled gaming experience that will captivate and challenge you.
 
 # Features
 
@@ -18,8 +18,6 @@ Victory Tallying
 Effortless Restart Functionality
 
 Seamless Exit Option
-
-Indulge your passion for gaming by cloning or forking our repository today! Whether you seek thrilling battles against worthy adversaries or simply wish to explore the intricacies of game development, our Tic-Tac-Toe repository promises an unforgettable experience. Join us now and let the games begin!
 
 # Download Instructions
 
