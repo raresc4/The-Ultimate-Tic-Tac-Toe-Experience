@@ -47,7 +47,7 @@
             // 
             button10.Location = new Point(654, 403);
             button10.Name = "button10";
-            button10.Size = new Size(94, 29);
+            button10.Size = new Size(94, 35);
             button10.TabIndex = 8;
             button10.Text = "Exit";
             button10.UseVisualStyleBackColor = true;
@@ -61,27 +61,28 @@
             button11.TabIndex = 9;
             button11.Text = "New game";
             button11.UseVisualStyleBackColor = true;
+            button11.Click += button11_Click;
             // 
             // label1
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Cascadia Mono", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label1.Location = new Point(60, 33);
+            label1.Location = new Point(84, 33);
             label1.Name = "label1";
-            label1.Size = new Size(72, 27);
+            label1.Size = new Size(96, 27);
             label1.TabIndex = 10;
-            label1.Text = "nigga";
+            label1.Text = "player1";
             label1.Click += label1_Click;
             // 
             // label2
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Cascadia Mono", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label2.Location = new Point(654, 42);
+            label2.Location = new Point(522, 33);
             label2.Name = "label2";
-            label2.Size = new Size(84, 27);
+            label2.Size = new Size(96, 27);
             label2.TabIndex = 11;
-            label2.Text = "label2";
+            label2.Text = "player2";
             label2.Click += label2_Click;
             // 
             // button9
